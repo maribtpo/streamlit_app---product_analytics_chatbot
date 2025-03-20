@@ -1,0 +1,829 @@
+[
+  {
+    "event": "write__review__published",
+    "properties": {
+      "time": 1742486694.849,
+      "distinct_id": "d4d197ff-8c10-5f6c-a344-0733484d6a7a",
+      "$city": "Shanghai",
+      "mp_country_code": "CN"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486694.846,
+      "distinct_id": "d4d197ff-8c10-5f6c-a344-0733484d6a7a"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486694.844,
+      "distinct_id": "0e3e74f8-f187-5ede-9824-391c3e60ba56",
+      "$city": "Ebetsu",
+      "mp_country_code": "JP"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486694.78,
+      "distinct_id": "1713dea2-3850-51c8-af34-be15e96714a3",
+      "$city": "Santa Cruz de La Palma",
+      "mp_country_code": "ES"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486694.779,
+      "distinct_id": "1713dea2-3850-51c8-af34-be15e96714a3",
+      "$city": "San Francisco De Las Llagas",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486694.776,
+      "distinct_id": "f4c18827-4a68-5474-b0b8-2792ab49ae1f",
+      "$city": "Makati City",
+      "mp_country_code": "PH"
+    }
+  },
+  {
+    "event": "adjust payment method",
+    "properties": {
+      "time": 1742486694.772,
+      "distinct_id": "3afe1d61-bcf6-518d-8b8c-c78f29c73e80",
+      "$city": "Eagan",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486694.69,
+      "distinct_id": "72d5fdf0-a2b3-5fa5-afda-9c18e41fc47a",
+      "$city": "Casablanca",
+      "mp_country_code": "MA"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486694.689,
+      "distinct_id": "2535faf7-f9d5-5cb7-af08-0ce81c0454fb",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486694.689,
+      "distinct_id": "07cf25cb-4bd8-5ca9-a30b-9de36ed2eab6",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486694.688,
+      "distinct_id": "2535faf7-f9d5-5cb7-af08-0ce81c0454fb",
+      "mp_country_code": "FI"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486694.639,
+      "distinct_id": "7032f848-d822-5c7e-847b-af1a6e8c287d",
+      "mp_country_code": "CI"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486694.634,
+      "distinct_id": "88120405-7402-576a-af3c-02b31985a533",
+      "$city": "Joliet",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486694.548,
+      "distinct_id": "197d345d-6483-5ceb-8db1-a9fe734630ac",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486694.465,
+      "distinct_id": "7f415ef4-5c35-5813-bbcd-4c8a898c884e",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486694.46,
+      "distinct_id": "7f415ef4-5c35-5813-bbcd-4c8a898c884e",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486694.393,
+      "distinct_id": "7a2c9b5e-d65a-5ad0-8d55-196518375cc8",
+      "$city": "Cervasca",
+      "mp_country_code": "IT"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486694.303,
+      "distinct_id": "b0da259d-32f4-54b3-be64-641740b240c7"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486694.206,
+      "distinct_id": "616176db-6cca-5017-ae0a-6a63c6de48b7",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "adjust payment method",
+    "properties": {
+      "time": 1742486694.134,
+      "distinct_id": "1f34dd74-b8d8-5d8e-a32f-fcde9aa30793"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486694.069,
+      "distinct_id": "d753e65f-5540-5aaf-9a90-6149af883058",
+      "$city": "North Las Vegas",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486694.069,
+      "distinct_id": "1f34dd74-b8d8-5d8e-a32f-fcde9aa30793"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486694.068,
+      "distinct_id": "d753e65f-5540-5aaf-9a90-6149af883058",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "payment received",
+    "properties": {
+      "time": 1742486694.054,
+      "distinct_id": "661fd868-d395-5633-8f19-cad1323e783b",
+      "mp_country_code": "CA"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.999,
+      "distinct_id": "e7ed17e6-658c-5b1d-89b7-349820f629b7",
+      "$city": "Rio de Janeiro",
+      "mp_country_code": "BR"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486693.984,
+      "distinct_id": "e0e75748-ad3e-5b07-8da1-ec663e641554",
+      "mp_country_code": "CN"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486693.981,
+      "distinct_id": "c20cfd55-4487-5929-92fd-cfabaa9f2169",
+      "$city": "Moscow",
+      "mp_country_code": "RU"
+    }
+  },
+  {
+    "event": "adjust payment method",
+    "properties": {
+      "time": 1742486693.935,
+      "distinct_id": "c65b072f-b4e6-5c7a-b622-5fca70a24c69"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486693.935,
+      "distinct_id": "b7317a41-f541-5499-af01-c152bb1f83f7",
+      "$city": "Bauru",
+      "mp_country_code": "BR"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.935,
+      "distinct_id": "b7317a41-f541-5499-af01-c152bb1f83f7",
+      "$city": "Milan",
+      "mp_country_code": "IT"
+    }
+  },
+  {
+    "event": "write__review__published",
+    "properties": {
+      "time": 1742486693.929,
+      "distinct_id": "ba963596-50f5-5b5a-b8e3-a0bc61881f74",
+      "mp_country_code": "DE"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.87,
+      "distinct_id": "ba963596-50f5-5b5a-b8e3-a0bc61881f74"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486693.869,
+      "distinct_id": "79900e1b-5ee0-5745-ad7b-86b176574d8f",
+      "$city": "Shanghai",
+      "mp_country_code": "CN"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.869,
+      "distinct_id": "79900e1b-5ee0-5745-ad7b-86b176574d8f",
+      "mp_country_code": "JP"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.869,
+      "distinct_id": "ba963596-50f5-5b5a-b8e3-a0bc61881f74"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.865,
+      "distinct_id": "11318c76-2a1e-52be-b85d-a5f1b713838f",
+      "$city": "Igrejinha",
+      "mp_country_code": "BR"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.865,
+      "distinct_id": "11318c76-2a1e-52be-b85d-a5f1b713838f"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.864,
+      "distinct_id": "11318c76-2a1e-52be-b85d-a5f1b713838f",
+      "$city": "Ho Chi Minh City",
+      "mp_country_code": "VN"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.803,
+      "distinct_id": "aa699c62-9b85-5ed2-8eb5-52b4c9eb7c47",
+      "mp_country_code": "JP"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.803,
+      "distinct_id": "aa699c62-9b85-5ed2-8eb5-52b4c9eb7c47",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486693.802,
+      "distinct_id": "fe2503af-cb1b-5d30-bed7-c7b8a67b082f",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.801,
+      "distinct_id": "439161da-d387-5f78-92bd-91e18061ec7f",
+      "$city": "Zhengzhou",
+      "mp_country_code": "CN"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.73,
+      "distinct_id": "0c817b06-b62f-5a86-8254-3d54881d502b",
+      "mp_country_code": "RO"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.73,
+      "distinct_id": "0c817b06-b62f-5a86-8254-3d54881d502b",
+      "$city": "Tulsa",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486693.729,
+      "distinct_id": "0c817b06-b62f-5a86-8254-3d54881d502b",
+      "mp_country_code": "CN"
+    }
+  },
+  {
+    "event": "rate sandwich",
+    "properties": {
+      "time": 1742486693.723,
+      "distinct_id": "abbd72b3-77a7-5ae4-bbaf-4947df06a95f",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.722,
+      "distinct_id": "d9835bf6-9926-5b7b-bb08-70ddf6876f9b",
+      "mp_country_code": "CN"
+    }
+  },
+  {
+    "event": "set meal preference",
+    "properties": {
+      "time": 1742486693.664,
+      "distinct_id": "09d67e91-3bea-5269-b7db-d58b1f2c156e",
+      "$city": "Chlef",
+      "mp_country_code": "DZ"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.664,
+      "distinct_id": "7512ab80-d716-588a-82b4-3ec8c6c5ca9a",
+      "$city": "Amilly",
+      "mp_country_code": "FR"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.662,
+      "distinct_id": "390d7661-9aa0-519d-9f5f-70acda9687e3",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486693.593,
+      "distinct_id": "e67d5673-a6ea-531c-b70f-28fa6acc4cce",
+      "$city": "Cuauhtémoc",
+      "mp_country_code": "MX"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.585,
+      "distinct_id": "e67d5673-a6ea-531c-b70f-28fa6acc4cce",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.584,
+      "distinct_id": "e55c2460-8e84-5d8f-8fce-5d36105b3050"
+    }
+  },
+  {
+    "event": "adjust payment method",
+    "properties": {
+      "time": 1742486693.508,
+      "distinct_id": "86cd3759-08f1-5dc3-84f8-cf819dadd627",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.433,
+      "distinct_id": "65531819-c604-5df3-8e60-c3d62df9895d",
+      "mp_country_code": "CN"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.43,
+      "distinct_id": "61744606-7454-5894-845e-4317a3c1cffa",
+      "mp_country_code": "FI"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.429,
+      "distinct_id": "65531819-c604-5df3-8e60-c3d62df9895d",
+      "$city": "Santiago",
+      "mp_country_code": "CL"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.425,
+      "distinct_id": "25b6ed90-9f71-529f-844a-08ae17ded8ed",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.424,
+      "distinct_id": "f2ecb01e-7c9f-5da1-96cd-25c92a0a055e",
+      "$city": "Kyiv",
+      "mp_country_code": "UA"
+    }
+  },
+  {
+    "event": "adjust payment method",
+    "properties": {
+      "time": 1742486693.422,
+      "distinct_id": "f2ecb01e-7c9f-5da1-96cd-25c92a0a055e",
+      "$city": "Bern",
+      "mp_country_code": "CH"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486693.421,
+      "distinct_id": "f2ecb01e-7c9f-5da1-96cd-25c92a0a055e",
+      "mp_country_code": "CN"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486693.361,
+      "distinct_id": "0268ad07-0c59-55da-ab93-89389279065e",
+      "mp_country_code": "GB"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486693.358,
+      "distinct_id": "7b655419-e4a1-56ec-b1b5-3c3b3cc9b3db",
+      "$city": "Gunpo",
+      "mp_country_code": "KR"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486693.354,
+      "distinct_id": "ea040555-7ce0-598f-8b27-aedc54db05c6",
+      "$city": "Düsseldorf",
+      "mp_country_code": "DE"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.351,
+      "distinct_id": "ed777c4f-b543-57aa-b6f9-235c6f7f6c8d",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486693.351,
+      "distinct_id": "ea040555-7ce0-598f-8b27-aedc54db05c6"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.351,
+      "distinct_id": "ed777c4f-b543-57aa-b6f9-235c6f7f6c8d",
+      "$city": "Tehran",
+      "mp_country_code": "IR"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486693.351,
+      "distinct_id": "cd0b8fd4-ddbb-557c-8ea5-d21d2d1cdb72",
+      "$city": "Montreal",
+      "mp_country_code": "CA"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.27,
+      "distinct_id": "9faac70f-9822-5188-9dc7-3b7b6536689a",
+      "mp_country_code": "ID"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.27,
+      "distinct_id": "9faac70f-9822-5188-9dc7-3b7b6536689a",
+      "$city": "Pyeongtaek-si",
+      "mp_country_code": "KR"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486693.27,
+      "distinct_id": "9faac70f-9822-5188-9dc7-3b7b6536689a",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.269,
+      "distinct_id": "62bdfc03-2e26-57e6-a511-354d1c9bb7e6",
+      "$city": "Miami",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.199,
+      "distinct_id": "a1dd5d25-1bf7-5e6c-bcbe-e604a5c41783",
+      "$city": "Copenhagen",
+      "mp_country_code": "DK"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486693.199,
+      "distinct_id": "b8524a46-a887-5f76-bf76-54000699215e",
+      "$city": "Charlotte",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.198,
+      "distinct_id": "b8524a46-a887-5f76-bf76-54000699215e",
+      "$city": "Amsterdam",
+      "mp_country_code": "NL"
+    }
+  },
+  {
+    "event": "order sandwich",
+    "properties": {
+      "time": 1742486693.129,
+      "distinct_id": "3329ee52-27a1-54f4-9dba-8d67f9e2b32c",
+      "$city": "Wuxi",
+      "mp_country_code": "CN"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486693.123,
+      "distinct_id": "3329ee52-27a1-54f4-9dba-8d67f9e2b32c",
+      "mp_country_code": "NL"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.119,
+      "distinct_id": "b34e7b90-7f2e-5098-93d3-2a837eb92e50",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486693.118,
+      "distinct_id": "c8c45520-2e62-5661-8b4b-707cda722254",
+      "mp_country_code": "JP"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486693.113,
+      "distinct_id": "c8c45520-2e62-5661-8b4b-707cda722254",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.113,
+      "distinct_id": "c8c45520-2e62-5661-8b4b-707cda722254"
+    }
+  },
+  {
+    "event": "rate sandwich",
+    "properties": {
+      "time": 1742486693.053,
+      "distinct_id": "ad7bc42e-cc2c-5d8b-b2de-df1668462a5d",
+      "$city": "Bozeman",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486693.053,
+      "distinct_id": "ad7bc42e-cc2c-5d8b-b2de-df1668462a5d",
+      "$city": "Victoria",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "set meal preference",
+    "properties": {
+      "time": 1742486693.044,
+      "distinct_id": "0c2f6fc5-4553-5703-8b1d-5714454db060",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "payment received",
+    "properties": {
+      "time": 1742486692.992,
+      "distinct_id": "cdb36049-0690-5f89-b4e3-83c6fbf1c3db",
+      "$city": "Cape Town",
+      "mp_country_code": "ZA"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486692.985,
+      "distinct_id": "19b61e39-5687-531c-9f2f-dfaf897976ac"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486692.985,
+      "distinct_id": "76f8c35d-3b31-5712-9c1e-6d0ee22e8c1f",
+      "mp_country_code": "RS"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486692.913,
+      "distinct_id": "f05ae450-3c81-5408-9f0c-fc447dae79de",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486692.839,
+      "distinct_id": "c9a56822-733a-58fb-b337-349adacfa115"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486692.768,
+      "distinct_id": "f24b6083-81df-5d16-9146-2532283c15c7",
+      "mp_country_code": "HK"
+    }
+  },
+  {
+    "event": "set meal preference",
+    "properties": {
+      "time": 1742486692.763,
+      "distinct_id": "2f97089a-3d07-5cdb-af09-3e4a7de34f2b",
+      "mp_country_code": "FI"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486692.762,
+      "distinct_id": "2acb7bf2-064d-55c1-b93e-cf82d5b221c9",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "rate sandwich",
+    "properties": {
+      "time": 1742486692.754,
+      "distinct_id": "1206f2ab-ce89-514c-abbd-65afae8c48d0",
+      "$city": "Columbia",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "view__ingredients__modal",
+    "properties": {
+      "time": 1742486692.7,
+      "distinct_id": "4a85a874-3ba1-5ec9-b21a-46d7badba1e9",
+      "$city": "Stuttgart",
+      "mp_country_code": "DE"
+    }
+  },
+  {
+    "event": "favorite sandwich",
+    "properties": {
+      "time": 1742486692.697,
+      "distinct_id": "49df6e04-c694-55e8-81d0-bb9a7ca224a7",
+      "$city": "Belo Horizonte",
+      "mp_country_code": "BR"
+    }
+  },
+  {
+    "event": "app open",
+    "properties": {
+      "time": 1742486692.697,
+      "distinct_id": "9faaf074-8c33-55db-b469-db831a1671af"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486692.694,
+      "distinct_id": "49df6e04-c694-55e8-81d0-bb9a7ca224a7",
+      "$city": "Miami Gardens",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "write__review__published",
+    "properties": {
+      "time": 1742486692.689,
+      "distinct_id": "2f82cddb-c5e2-5827-a0da-79080d3167fd"
+    }
+  },
+  {
+    "event": "rate sandwich",
+    "properties": {
+      "time": 1742486692.688,
+      "distinct_id": "2f82cddb-c5e2-5827-a0da-79080d3167fd",
+      "mp_country_code": "US"
+    }
+  },
+  {
+    "event": "receive sandwich",
+    "properties": {
+      "time": 1742486692.621,
+      "distinct_id": "bd8c016d-5101-537a-95df-c1cccfecfe51",
+      "mp_country_code": "US"
+    }
+  }
+]
