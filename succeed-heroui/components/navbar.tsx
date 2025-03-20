@@ -56,8 +56,7 @@ export const Navbar = () => {
       <NavbarContent className="basis-1/5 sm:basis-full">
         <NavbarBrand as="li" className="gap-3 max-w-fit">
           <Link className="flex justify-start items-center gap-1" href="/">
-            <Logo />
-            <p className="font-bold text-black text-xl">SUCCEED</p>
+            <p className="font-regular text-black text-xl">SUCCEED.AI</p>
           </Link>
         </NavbarBrand>
         <ul className="hidden lg:flex gap-4 justify-start ml-2">

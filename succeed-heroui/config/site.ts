@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Succeed - AI Product Analytics",
-  description: "AI-powered product analytics that helps you understand your users better through intelligent voice interactions.",
+  name: "Succeed",
+  description: "AI agent that automatically detects when users are struggling with your product and guides them to success through natural voice conversations.",
   navItems: [
     {
       label: "Home",
@@ -19,39 +19,37 @@ export const siteConfig = {
     {
       label: "About",
       href: "/about",
-    },
+    }
   ],
   navMenuItems: [
     {
-      label: "Dashboard",
-      href: "/dashboard",
+      label: "Home",
+      href: "/",
     },
     {
-      label: "Analytics",
-      href: "/analytics",
+      label: "Features",
+      href: "/features",
     },
     {
-      label: "Voice Chat",
-      href: "/voice-chat",
+      label: "Pricing",
+      href: "/pricing",
     },
     {
-      label: "Settings",
-      href: "/settings",
+      label: "About",
+      href: "/about",
     },
     {
-      label: "Help & Support",
-      href: "/help",
-    },
-    {
-      label: "Logout",
-      href: "/logout",
-    },
+      label: "Login",
+      href: "/login",
+    }
   ],
   links: {
-    github: "https://github.com/maribtpo/streamlit_app---product_analytics_chatbot",
-    twitter: "https://twitter.com/succeed_ai",
-    docs: "https://succeed.ai",
+    github: "https://github.com/maribtpo/succeed",
+    twitter: "https://twitter.com/succeed",
+    docs: "https://docs.succeed.ai",
     discord: "https://discord.gg/succeed",
-    sponsor: "https://patreon.com/succeed",
+    sponsor: "https://github.com/sponsors/succeed",
+    login: "/login",
+    signup: "/signup"
   },
 };
