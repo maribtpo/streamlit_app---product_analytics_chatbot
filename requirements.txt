@@ -1,6 +1,0 @@
-mixpanel==4.10.0
-sendgrid==6.10.0
-python-dotenv==1.0.0
-flask==3.0.2
-SpeechRecognition==3.10.1
-gTTS==2.5.1 
